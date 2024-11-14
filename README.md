@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-This is a React-based weather dashboard that allows users to search for current weather data, forecast information, and view dynamic background images based on temperature.
+This is a React-based weather dashboard that allows users to search for current weather data, forecast information, and view dynamic background images based on temperature.  hhhh
 
 ## Features
 
